@@ -1,0 +1,13 @@
+*.log
+*.tmp
+*.pcap
+*.pcapng
+*.bak
+*.swp
+*.zip
+*.rar
+*.7z
+
+# OS noise
+.DS_Store
+Thumbs.db
