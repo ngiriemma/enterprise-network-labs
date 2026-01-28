@@ -1,4 +1,6 @@
 # HSRP with IP SLA – Dual-Uplink Enterprise Failover Lab
+## 0. LAB Design 
+![HSRP + IP SLA Dual-Uplink Topology](images/hsrp-ip-sla-topology.png)
 
 ## 1. Overview
 This lab demonstrates a **fully functional HSRP deployment combined with IP SLA tracking on the Edge router** to ensure continuous Internet access during router or uplink failures.
